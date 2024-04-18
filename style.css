@@ -1,0 +1,44 @@
+
+        body {
+            background-color: mistyrose;
+        }
+
+        .box1 {
+            border-radius: 5%;
+            width: 580px;
+            height: 80rem;
+            background-color: beige;
+            text-align: center;
+            margin: auto;
+        }
+
+        .box2 {
+            border-radius: 5%;
+            width: 550px;
+            height: 100px;
+            background-color: mistyrose;
+
+            margin: auto;
+        }
+
+        img {
+            width: 95%;
+            height: 25%;
+            text-align: center;
+            border-radius: 10%;
+            position: relative;
+            top: 0.5cm;
+        }
+
+        p {
+            font-size: 92%;
+            color: darkgray;
+
+        }
+
+        .table {
+            width: 10rem;
+            font-size: 250px;
+            color: darkorange
+        }
+    
